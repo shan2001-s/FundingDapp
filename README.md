@@ -20,7 +20,7 @@ Deploy a copy of your application to IPFS using the following command:
 yarn deploy
 ```
 
-## Learn More
+## Learn More..
 
 To learn more about thirdweb, Vite and React, take a look at the following resources:
 
